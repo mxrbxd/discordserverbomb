@@ -1,0 +1,24 @@
+{
+  "bots": [
+    {
+      "TOKEN": "botunuzun tokeni",
+      "BAN_REASON": "discord.gg/abdoe",
+      "WEBHOOK_URL": "banlanan kişilerin logu için webhook girin"
+    },
+    {
+      "TOKEN": "botunuzun tokeni",
+      "TARGET_NICKNAME": "BU SUNUCU NE AMK",
+      "WEBHOOK_URL": "username değişme logu için webhook girin",
+      "COMMAND": "isimleri değiş"
+    },
+    {
+      "TOKEN": "botunuzun tokeni",
+      "WEBHOOK_URL": "silinen kanalların logu için webhook girin"
+    },
+    {
+      "TOKEN": "botunuzun tokeni",
+      "COMMAND": "logları temizle"
+    }
+  ]
+}
+
